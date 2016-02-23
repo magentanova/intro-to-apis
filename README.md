@@ -14,7 +14,7 @@
 
 ###Normal Mode
 
-Retrieve data on all legislators, reproducing the page shown beelow: ![](./static.png)
+Retrieve data on all legislators, reproducing the page shown below: ![](./static.png)
 
 ###Adventure Mode
 
