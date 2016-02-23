@@ -8,7 +8,7 @@
 
 ##Instructions
 
-* Clone the repo at https://github.com/magentanova/dom-manipulations into a folder on your own hard drive.
+* Clone the repo at https://github.com/magentanova/intro-to-apis into a folder on your own hard drive.
 * Change the remote url with `git remote set-url origin <url for your remote repo>` (so it points to a repo on your github account, not your instructor's.) 
 * Write code in main.js that will retrieve data on legislators from the [Sunglight Foundation's congress API](https://sunlightlabs.github.io/congress/) and display it on a web page.
 
