@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+input[type="text"] {
+    width: 100px;
+    display: block;
+    margin: 30px auto;
+    border: 5px solid black;
+}
+
 
 body{
   font-family: 'Palatino';
@@ -35,7 +42,7 @@ h1:nth-of-type(4){
 }
 
 .card{
-  width: 30%;
+  min-width: 30%;
   padding: 10px;
   display: inline-block;
   background: #D2D7ff;
