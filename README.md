@@ -16,6 +16,10 @@
 
 Retrieve data on all legislators, reproducing the page shown below: ![](./static.png)
 
+###Adventure Mode
+
+Include a text input at the top of your page. If the user enters a ZIP code and types enter, your app should retrieve data on local legislators. See gif below: ![](./adventure_mode.gif)
+
 ##Deliverables 
 
 A link to a live site on gh-pages showcasing your work.
