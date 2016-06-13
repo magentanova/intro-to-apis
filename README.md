@@ -2,9 +2,9 @@
 
 ##Objectives
 
-  - Read and explore the documentation of APIs
-  - Effectively implement Promise/Deferred objects
-  - Format retrieved data into HTML
+  * Read and explore the documentation of APIs
+  * Effectively implement the promise pattern
+  * Format retrieved data into HTML
 
 ##Instructions
 
@@ -12,7 +12,7 @@
 * `cd` into the project
 * `git init`
 * hub create [repoName]
-* include a <script> tag in your index.html that links to the jquery source code (make sure you put it *above* your own script)
+* include a script tag in your index.html that links to the jquery source code (make sure you put it *above* your own script)
 * hack away at your `script.js` to create the patterns below!
 
 
