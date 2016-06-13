@@ -8,9 +8,12 @@
 
 ##Instructions
 
-* Clone the repo at https://github.com/magentanova/intro-to-apis into a folder on your own hard drive.
-* Change the remote url with `git remote set-url origin <url for your remote repo>` (so it points to a repo on your github account, not your instructor's.) 
-* Write code in main.js that will retrieve data on legislators from the [Sunglight Foundation's congress API](https://sunlightlabs.github.io/congress/) and display it on a web page.
+* use the `genProject` tool to create a new web project
+* `cd` into the project
+* `git init`
+* hub create [repoName]
+* include a <script> tag in your index.html that links to the jquery source code (make sure you put it *above* your own script)
+* hack away at your `script.js` to create the patterns below!
 
 
 ###Normal Mode
