@@ -15,6 +15,10 @@
 * include a script tag in your index.html that links to the jquery source code (make sure you put it *above* your own script)
 * hack away at your `script.js` to create the patterns below!
 
+##Resources 
+
+ * Sunlight Foundation API: https://sunlightfoundation.com/api/
+ * jquery source code: https://code.jquery.com/jquery-3.0.0.min.js
 
 ###Normal Mode
 
