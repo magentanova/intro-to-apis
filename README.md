@@ -2,9 +2,9 @@
 
 ##Objectives
 
-  * Read and explore the documentation of APIs
-  * Effectively implement the promise pattern
-  * Format retrieved data into HTML
+  - Read and explore the documentation of APIs
+  - Effectively implement Promise/Deferred objects
+  - Format retrieved data into HTML
 
 ##Instructions
 
