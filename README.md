@@ -19,7 +19,8 @@
 
  * Sunlight Foundation API: https://sunlightfoundation.com/api/
  * jquery source code (CDN link): https://code.jquery.com/jquery-3.0.0.min.js
-
+ * Anatomy of a URL (this should help with the syntax of the parameter string you send to Sunlight): 
+ ![](./urlStructure.png)
 ###Normal Mode
 
 Retrieve data on all legislators, reproducing the page shown below: ![](./static.png)
