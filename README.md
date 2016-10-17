@@ -18,7 +18,7 @@
 ##Resources 
 
  * Sunlight Foundation API: https://sunlightfoundation.com/api/
- * jquery source code: https://code.jquery.com/jquery-3.0.0.min.js
+ * jquery source code (CDN link): https://code.jquery.com/jquery-3.0.0.min.js
 
 ###Normal Mode
 
